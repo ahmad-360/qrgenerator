@@ -1,7 +1,7 @@
 # qrgenerator by Mal4D
+ Hi welcome into qr code generator using python by Mal4d
 
 # Linux Users
- Hi welcome into qr code generator using python by mal4d
  
  you just have to run install.sh by ./install.sh
  
@@ -16,8 +16,12 @@
  after :
  python qr.py
  
+  enjoy <3 Odima KOKAB :) .
+
+ 
  # Images
  ![alt text](https://github.com/ahmad-360/qrgenerator/blob/main/1.png?raw=true)
  
+ ![alt text](https://github.com/ahmad-360/qrgenerator/blob/main/2.png?raw=true)
+
  
- enjoy <3 :) .
