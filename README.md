@@ -15,6 +15,7 @@
  run in command prompt:<br />
  
  `pip install termcolor` <br />
+ 
  `pip install qrcode` <br />
  
  `python qr.py` <br />
