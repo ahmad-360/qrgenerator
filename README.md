@@ -3,18 +3,21 @@
 
 # Linux Users
  
- you just have to run install.sh by ./install.sh
+ you just have to run install.sh by:<br />
  
- but before you have to run chmod +x install.sh
+ `chmod +x install.sh `<br />
+ 
+ `./install.sh` <br />
+ 
  
  # Window Users
  
- run in command prompt
- pip install termcolor
- pip install qrcode 
+ run in command prompt:<br />
  
- after :
- python qr.py
+ `pip install termcolor` <br />
+ `pip install qrcode` <br />
+ 
+ `python qr.py` <br />
  
   enjoy <3 Odima KOKAB :) .
 
