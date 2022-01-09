@@ -16,6 +16,8 @@
  after :
  python qr.py
  
+ # Images
+ ![alt text](https://github.com/ahmad-360/qrgenerator/blob/main/1.png?raw=true)
  
  
  enjoy <3 :) .
